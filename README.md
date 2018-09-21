@@ -45,3 +45,5 @@ Reports should be directed to [PROJECT STEWARD NAME(s) AND EMAIL(s)], the Projec
 ## Attribution
 
 *This code of conduct is based on the [template](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html) established by the Contributor Covenant group and used by numerous other large communities (e.g., [Google](https://opensource.google.com/docs/releasing/template/CODE_OF_CONDUCT/), [Yahoo](https://yahoo.github.io/codeofconduct), [Twitter](https://about.twitter.com/), and [Kubernetes](https://github.com/kubernetes/kubernetes/)).*
+
+> Eventually, saying "I'M SORRY" is the positive attitude. Even though your intent was not to harm someone, that is the impact it had.
